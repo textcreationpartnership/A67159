@@ -1,0 +1,709 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Historia histrionica an historical account of the English stage, shewing the ancient use, improvement and perfection of dramatick representations in this nation in a dialogue of plays and players.</title>
+            <author>Wright, James, 1643-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67159</idno>
+            <idno type="STC">Wing W3695</idno>
+            <idno type="STC">ESTC R26408</idno>
+            <idno type="EEBO-CITATION">09456231</idno>
+            <idno type="OCLC">ocm 09456231</idno>
+            <idno type="VID">43156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43156)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1321:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Historia histrionica an historical account of the English stage, shewing the ancient use, improvement and perfection of dramatick representations in this nation in a dialogue of plays and players.</title>
+                  <author>Wright, James, 1643-1713.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom for William Haws,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: A dialogue of plays and players.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theater --  Great Britain --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43156:1" rendition="simple:additions"/>
+            <pb facs="tcp:43156:1"/>
+            <p>HISTORIA HISTRIONICA:</p>
+            <p>AN Hiſtorical Account OF THE Engliſh-Stage.</p>
+            <p>SHEWING The ancient Uſe, Improvement, and Perfection, of Dramatick Repre<g ref="char:EOLhyphen"/>ſentations, in this Nation.</p>
+            <p>IN A Dialogue, of <hi>PLAYS</hi> and <hi>PLAYERS.</hi>
+            </p>
+            <p>
+               <q>—Olim meminiſſe juvabit.</q>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>G. Croom,</hi> for <hi>William Haws</hi> at the Roſe in <hi>Ludgate-ſtreet.</hi> 1699.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:43156:2"/>
+            <pb facs="tcp:43156:2"/>
+            <head>THE PREFACE.</head>
+            <p>M<g ref="char:V">Ʋ</g>ch has been Writ of late <hi>pro</hi> and <hi>con,</hi> about the Stage, yet the Subject ad<g ref="char:EOLhyphen"/>mits of more, and that which has not been hetherto toucht upon; not only what that is, but what it was, about which ſome People have made ſuch a Buſle. What it is we ſee, and I think it has been ſufficiently diſplay'd in Mr. <hi>Colier</hi>'s Book; What it was in former Ages, and how uſed in this Kingdom, ſo far back as one may collect any Memo<g ref="char:EOLhyphen"/>rialls, is the Subject of the follow<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:43156:3"/> Dialogue. Old Plays will be always Read by the <hi>Curious,</hi> if it were only to diſcover the Manners and Behaviour of ſeveral Ages; and how they alter'd. For Plays<g ref="char:punc">▪</g> are exactly like <hi>Portraits</hi> Drawn in the Garb and Faſhion of the time when Painted. You ſee one Habit in the time of King <hi>Charles I.</hi> another quite different from that, both for Men and Women, in Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeths</hi> time another; under <hi>Henry</hi> the Eighth different from both; and ſo backward all various. And in the ſeveral Faſhions of Behaviour and Converſation, there is as much Ma<g ref="char:EOLhyphen"/>tability as in that of Cloaths. Reli<g ref="char:EOLhyphen"/>gion and Religious matters was once as much the Mode in publick Enter<g ref="char:EOLhyphen"/>tainments, as the Contrary has been
+<pb facs="tcp:43156:3"/> in ſome times ſince. This appears in the different Plays of ſeveral Ages: And to evince this, the following Sheets are an Eſſay or Specimen.</p>
+            <p>Some may think the Subject of this Diſcourſe trivial, and the perſons herein mention'd not worth remember<g ref="char:EOLhyphen"/>ing. But beſides that I could name ſome things conteſted of late with great heat, of as little, or leſs Conſe<g ref="char:EOLhyphen"/>quence, the Reader may know that the Profeſſion of Players is not ſo totally ſcandalous, nor all of them ſo reprobate, but that there has been found under that Name, a Canonized Saint in the primitive Church; as may be ſeen in the <hi>Roman Marty<g ref="char:EOLhyphen"/>rology</hi> on the <hi>29th</hi> of <hi>March;</hi> his name <hi>Maſculas</hi> a Maſter of Inter<g ref="char:EOLhyphen"/>ludes, (the Latin is <hi>Archimimus,</hi>
+               <pb facs="tcp:43156:4"/> and the French Tranſlation <hi>un Mai<g ref="char:EOLhyphen"/>tre Comedien</hi>) who under the Per<g ref="char:EOLhyphen"/>ſecution of the <hi>Vandals</hi> in <hi>Africa,</hi> by <hi>Geiſericus</hi> the <hi>Arian</hi> King, hav<g ref="char:EOLhyphen"/>ing endured many and greivious Tor<g ref="char:EOLhyphen"/>ments and Reproaches for the Con<g ref="char:EOLhyphen"/>feſſion of the Truth, finiſht the Courſe of this glorious Combat. Saith the ſaid <hi>Martyrology.</hi>
+            </p>
+            <p>It appears from this, and ſome further Inſtances in the following Diſ<g ref="char:EOLhyphen"/>courſe, That there have been Players of worthy Principles as to Religion, Loyalty, and other Virtues; and if the major part of them fall under a dif<g ref="char:EOLhyphen"/>ferent Character, it is the general un<g ref="char:EOLhyphen"/>happineſs of Mankind, that the <hi>Moſt</hi> are the <hi>Worſt.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:43156:4"/>
+            <head>A DIALOGUE OF <hi>PLAYS</hi> and <hi>PLAYERS.</hi>
+            </head>
+            <stage>Lovewit, Truman.</stage>
+            <sp>
+               <speaker>LOvew.</speaker>
+               <p>Honeſt Old Cavalier! well met, 'faith I'm glad to ſee thee.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Have a care what you call me. Old, is a Word of Diſgrace among the Ladies; to be Honeſt is to be Poor and Fooliſh, (as ſome think) and Cavalier is a Word as much out of Faſhion as any of 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>The more's the pity: But what ſaid the Fortune-Teller in <hi>Ben. Johnſon</hi>'s Mask of <hi>Gypſies,</hi> to the then <hi>Lord Privy Seal,</hi>
+                  <q>
+                     <l>Honeſt and Old!</l>
+                     <l>In thoſe the <hi>Good</hi> Part of a Fortune is told.</l>
+                  </q>
+               </p>
+            </sp>
+            <pb n="2" facs="tcp:43156:5"/>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>
+                  <hi>Ben. Johnſon?</hi> How dare you name <hi>Ben. Johnſon</hi> in theſe times? When we have ſuch a crowd of Poets of a quite different Genius; the leaſt of which thinks himſelf as well able to correct <hi>Ben. Johnſon,</hi> as he could a Country School Miſtreſs that taught to Spell.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>We have indeed, Poets of a different Genius; ſo are the Plays: But in my Opinion, they are all of 'em (ſome few excepted) as much inferior to thoſe of former Times, as the Actors now in being (generally ſpeaking) are, compared to <hi>Hart, Mohun, Burt, Lacy, Clun,</hi> and <hi>Shatterel;</hi> for I can reach no farther backward.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>I can; and dare aſſure you, if my Fancy and Memory are not partial (for Men of my Age are apt to be over indulgent to the thoughts of their youthful Days) I ſay the Actors that I have ſeen before the Wars, <hi>Lowin, Tayler, Pollard,</hi> and ſome others, were almoſt as far beyond <hi>Hart</hi> and his Company, as thoſe were beyond theſe now in being.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>I am willing to believe it, but can<g ref="char:EOLhyphen"/>not readily; becauſe I have been told, That thoſe whom I mention'd, were Bred up under the others of your Acquaintance, and follow'd their manner of Action, which is now loſt. So far, that when the Queſtion has been askt, Why theſe Players do not receive the <hi>Silent Wo<g ref="char:EOLhyphen"/>man,</hi> and ſome other of <hi>Johnſon</hi>'s Plays, (once of higheſt eſteem) they have anſwer'd, truly, Becauſe there are none now Living who can
+<pb n="3" facs="tcp:43156:5"/> rightly Humour thoſe Parts, for all who re<g ref="char:EOLhyphen"/>lated to the <hi>Black-friers</hi> (where they were Acted in perfection) are now Dead, and al<g ref="char:EOLhyphen"/>moſt forgotten.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>'Tis very true, <hi>Hart</hi> and <hi>Clun,</hi> were bred up Boys at the <hi>Blackfriers;</hi> and Acted Womens Parts, <hi>Hart</hi> was <hi>Robinſon</hi>'s Boy or Apprentice: He Acted the Dutcheſs in the Tragedy of <hi>the Cardinal,</hi> which was the firſt Part that gave him Reputation. <hi>Cartwright,</hi> and <hi>Winterſhal</hi> belong'd to the private Houſe in <hi>Salisbury-Court, Burt</hi> was a Boy firſt under <hi>Shank</hi> at the <hi>Black-friers,</hi> then under <hi>Beeſton</hi> at the <hi>Cockpit;</hi> and <hi>Mohun,</hi> and <hi>Shatterel</hi> were in the ſame Condition with him, at the laſt Place. There <hi>Burt</hi> uſed to Play the principal Women's Parts, in particular <hi>Clariana</hi> in <hi>Love</hi>'s <hi>Cruelty;</hi> and at the ſame time <hi>Mohun</hi> Acted <hi>Bella<g ref="char:EOLhyphen"/>mente,</hi> which Part he retain'd after the Reſtau<g ref="char:EOLhyphen"/>ration.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>That I have ſeen, and can well re<g ref="char:EOLhyphen"/>member. I wiſh they had Printed in the laſt Age (ſo I call the times before the Rebellion) the Actors Names over againſt the Parts they Acted, as they have done ſince the Reſtaurati<g ref="char:EOLhyphen"/>on. And thus one might have gueſt at the Action of the Men, by the Parts which we now Read in the Old Plays.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>It was not the Cuſtome and Uſage of thoſe Days, as it hath been ſince. Yet ſome few Old Plays there are that have the Names ſet againſt the Parts, as, <hi>The Dutcheſs</hi>
+                  <pb n="4" facs="tcp:43156:6"/> 
+                  <hi>of Malfy; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Picture; the Roman Actor; the de<g ref="char:EOLhyphen"/>serving P<gap reason="illegible" resp="#MURP" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>urite, the Wild Gooſe Chace,</hi> (at the Black-friers) <hi>the Wedding; the Renegado; the fair Maid of the VVeſt; Hannibal and Scipio; King John and Matilda;</hi> (at the Cockpit) and <hi>Holland's Leaguer,</hi> (at Salisbury Court.)</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>Theſe are but few indeed: But pray Sir, what Maſter Parts can you remember the Old <hi>Black-friers</hi> Men to Act, in <hi>Johnſon, Shakeſpear,</hi> and <hi>Fletcher</hi>'s Plays.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>What I can at preſent recollect I'll tell you; <hi>Shakeſpear,</hi> (who as I have heard, was a much better Poet, than Player) <hi>Burbadge, Hemmings,</hi> and others of the Older ſort, were Dead before I knew the Town; but in my time, before the Wars, <hi>Lowin</hi> uſed to Act, with mighty Applauſe, <hi>Flaſtaffe, Moroſe, Vul<g ref="char:EOLhyphen"/>pone,</hi> and <hi>Mammon</hi> in the <hi>Alchymiſt; Melan<g ref="char:EOLhyphen"/>cius</hi> in the <hi>Maid's</hi> Tragedy, and at the ſame time <hi>Amyntor</hi> was Play'd by <hi>Stephen Hammerton,</hi> (who was at firſt a moſt noted and beautiful Woman Actor, but afterwards he acted with equal Grace and Applauſe, a Young Lo<g ref="char:EOLhyphen"/>ver's Part) <hi>Tayler</hi> Acted <hi>Hamlet</hi> incomparably well, <hi>Jago, Truewit</hi> in the <hi>Silent Woman,</hi> and <hi>Face</hi> in the <hi>Alchymiſt; Swanſton</hi> uſed to Play <hi>Othello: Pollard,</hi> and <hi>Robinſon</hi> were Comedi<g ref="char:EOLhyphen"/>ans, ſo was <hi>Shank</hi> who uſed to Act Sir <hi>Roger,</hi> in the <hi>Scornful Lady.</hi> Theſe were of the <hi>Black<g ref="char:EOLhyphen"/>friers.</hi> Thoſe of principal Note at the <hi>Cockpit,</hi> were, <hi>Perkins, Michael Bowyer, Sumner, Wil<g ref="char:EOLhyphen"/>liam Allen,</hi> and <hi>Bird,</hi> eminent Actors. and <hi>Ro<g ref="char:EOLhyphen"/>bins</hi>
+                  <pb n="5" facs="tcp:43156:6"/> a Comedian. Of the other Companies I took little notice.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>Were there ſo many Companies?</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Before the Wars, there were in be<g ref="char:EOLhyphen"/>ing all theſe Play-houſes at the ſame time. The <hi>Black-friers,</hi> and <hi>Globe</hi> on the <hi>Bankſide,</hi> a Win<g ref="char:EOLhyphen"/>ter and Summer Houſe, belonging to the ſame Company called the King's Servants; the <hi>Cock<g ref="char:EOLhyphen"/>pit</hi> or <hi>Phaenix,</hi> in <hi>Drury-lane,</hi> called the Queen's Servants; the private Houſe in <hi>Salisbury court,</hi> called the Prince's Servants; the <hi>Fortune</hi> near <hi>White-croſs-ſtreet,</hi> and the <hi>Red Bull</hi> at the up<g ref="char:EOLhyphen"/>per end of St. <hi>John's-ſtreet:</hi> The two laſt were moſtly frequented by Citizens, and the mean<g ref="char:EOLhyphen"/>er ſort of People. All theſe Companies got Mo<g ref="char:EOLhyphen"/>ney, and Liv'd in Reputation, eſpecially thoſe of the <hi>Blackfriers,</hi> who were Men of grave and ſober Behaviour.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>Which I admire at; That the Town much leſs than at preſent, could then maintain Five Companies, and yet now Two can hard<g ref="char:EOLhyphen"/>ly Subſiſt.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Do not wonder, but conſider, That tho' the Town was then, perhaps, not much more than half ſo Populous as now, yet then the Prices were ſmall (there being no Scenes) and better order kept among the Company that came; which made very good People think a Play an Innocent Diverſion for an idle Hour or two, the Plays themſelves being then, for the moſt part, more Inſtructive and Moral. Whereas of late, the Play-houſes are ſo extreamly
+<pb n="6" facs="tcp:43156:7"/> peſtered with Vizard-masks and their Trade, (occaſioning continual Quarrels and Abuſes) that many of the more Civilized Part of the Town are uneaſy in the Company, and ſhun the Theater as they would a Houſe of Scan<g ref="char:EOLhyphen"/>dal. It is an Argument of the worth of the Plays and Actors, of the laſt Age, and eaſily inferr'd, that they were much beyond ours in this, to conſider that they cou'd ſupport themſelves meerly from their own Merit; the weight of the Matter, and goodneſs of the Action, with<g ref="char:EOLhyphen"/>out Scenes and Machines: Whereas the pre<g ref="char:EOLhyphen"/>ſent Plays with all that ſhew, can hardly draw an Audience, unleſs there be the addi<g ref="char:EOLhyphen"/>tional Invitation of a <hi>Signior Fideli,</hi> a <hi>Monſi<g ref="char:EOLhyphen"/>eur L'abbe,</hi> or ſome ſuch Foreign Regale ex<g ref="char:EOLhyphen"/>preſt in the bottom of the Bill.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>To wave this Digreſſion, I have Read of one <hi>Edward Allin,</hi> a Man ſo famed for ex<g ref="char:EOLhyphen"/>cellent Action, that among <hi>Ben. Johnſon's</hi> Epi<g ref="char:EOLhyphen"/>grams, I find one directed to him, full of En<g ref="char:EOLhyphen"/>comium, and concluding thus
+<q>
+                     <l>Wear this Renown, 'tis juſt that who did give</l>
+                     <l>So many Poets Life, by one ſhould Live.</l>
+                  </q>
+               </p>
+               <p>Was he one of the <hi>Black-friers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Never, as I have heard; (for he was Dead before my time.) He was Maſter of a Company of his own, for whom he Built the <hi>Fortune</hi> Play-houſe from the Ground, a large, round Brick Building. This is he that grew ſo
+<pb n="7" facs="tcp:43156:7"/> Rich that he purchaſed a great Eſtate in <hi>Sur<g ref="char:EOLhyphen"/>rey</hi> and elſewhere; and having no Iſſue, he Built and largely endow'd <hi>Dulwich</hi> College, in the Year 1619, for a Maſter, a Warden, Four Fellows, Twelve aged poor People, and Twelve poor Boys, <hi>&amp;c.</hi> A noble Charity.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>What kind of Playhouſes had they before the Wars?</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>The <hi>Black-friers, Cockpit,</hi> and <hi>Salis<g ref="char:EOLhyphen"/>bury-court,</hi> were called Private Houſes, and were very ſmall to what we ſee now. The <hi>Cockpit</hi> was ſtanding ſince the Reſtauration, and <hi>Rhode</hi>'s Company Acted there for ſome time.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>I have ſeen that.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Then you have ſeen the other two, in effect; for they were all three Built almoſt exactly alike, for Form and Bigneſs. Here they had Pits for the Gentry, and Acted by Candle-light. The <hi>Globe, Fortune</hi> and <hi>Bull,</hi> were large Houſes, and lay partly open to the Weather, and there they alwaies Acted by Daylight.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>But prithee, <hi>Truman,</hi> what became of theſe Players when the Stage was put down, and the Rebellion raiſed?</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Moſt of 'em, except <hi>Lowin, Tayler</hi> and <hi>Pollard,</hi> (who were ſuperannuated) went into the King's Army, and like good Men and true, Serv'd their Old Maſter, tho' in a different, yet more honourable, Capacity. <hi>Ro<g ref="char:EOLhyphen"/>binſon</hi> was Kill'd at the Taking of a Place (I
+<pb n="8" facs="tcp:43156:8"/> think <hi>Baſing Houſe)</hi> by <hi>Harriſon,</hi> he that was after Hang'd at <hi>Charing-croſs,</hi> who refuſed him Quarter, and Shot him in the Head when he had laid down his Arms; abuſing Scrip<g ref="char:EOLhyphen"/>ture at the ſame time, in ſaying, <hi>Curſed is he that doth the Work of the Lord negligently. Mohun</hi> was a Captain, (and after the Wars were ended here, ſerved in <hi>Flanders,</hi> where he received Pay as a Major) <hi>Hart</hi> was a Lieute<g ref="char:EOLhyphen"/>nant of Horſe under Sir <hi>Thomas Dalliſon,</hi> in <hi>Prince Rupert's,</hi> Regiment, <hi>Burt</hi> was Cornet in the ſame Troop, and <hi>Shatterel</hi> Quarter-maſ<g ref="char:EOLhyphen"/>ter. <hi>Allen</hi> of the <hi>Cockpit,</hi> was a Major, and Quar<g ref="char:EOLhyphen"/>ter Maſter General at <hi>Oxford.</hi> I have not heard of one of theſe Players of any Note that ſided with the other Party, but only <hi>Swanston,</hi> and he profeſt himſelf a Presbyterian, took up the Trade of a Jeweller, and liv'd in <hi>Alderman<g ref="char:EOLhyphen"/>bury,</hi> within the Territory of Father <hi>Calamy.</hi> The reſt either Loſt, or expos'd their Lives for their King. When the Wars were over, and the Royaliſts totally Subdued; moſt of 'em who were left alive gather'd to <hi>London,</hi> and for a Subſiſtence endeavour'd to revive their Old Trade, privately. They made up one Company out of all the Scatter'd Mem<g ref="char:EOLhyphen"/>bers of Several; and in the Winter before the King's Murder, 1648, They ventured to Act ſome Plays with as much caution and privacy as cou'd be, at the <hi>Cockpit.</hi> They con<g ref="char:EOLhyphen"/>tinu'd undiſturbed for three or four Days; but at laſt as they were preſenting the Tra<g ref="char:EOLhyphen"/>gedy
+<pb n="9" facs="tcp:43156:8"/> of the <hi>Bloudy Brother,</hi> (in which <hi>Lowin</hi> Acted Aubrey, <hi>Tayler</hi> Rollo, <hi>Pollard</hi> the Cook, <hi>Burt</hi> Latorch, and I think <hi>Hart</hi> Otto) a Par<g ref="char:EOLhyphen"/>ty of Foot Souldiers beſet the Houſe, ſurprized 'em about the midle of the Play, and carried 'em away in their habits, not admitting them to Shift, to <hi>Hatton-houſe</hi> then a Priſon, where having detain'd them ſometime, they Plunder'd them of their Cloths and let 'em looſe again. Afterwards in <hi>Oliver</hi>'s time, they uſed to Act privately, three or four Miles, or more, out of Town, now here, now there, ſome<g ref="char:EOLhyphen"/>times in Noblemens Houſes, in particular <hi>Holland-houſe</hi> at <hi>Kenſington,</hi> where the Nobi<g ref="char:EOLhyphen"/>lity and Gentry who met (but in no great Numbers) uſed to make a Sum for them, each giving a broad Peice, or the like. And <hi>Alexander Goffe,</hi> the Woman Actor at <hi>Black<g ref="char:EOLhyphen"/>friers,</hi> (who had made himſelf known to Per<g ref="char:EOLhyphen"/>ſons of Quality) uſed to be the Jackal and give notice of Time and Place. At Chriſtmaſs, and Bartlemew-fair, they uſed to Bribe the Officer who Commanded the Guard at <hi>White<g ref="char:EOLhyphen"/>hall,</hi> and were thereupon connived at to Act for a few Days, at the <hi>Red Bull;</hi> but were ſometimes notwithſtanding Diſturb'd by Sol<g ref="char:EOLhyphen"/>diers. Some pickt up a little Money by pub<g ref="char:EOLhyphen"/>liſhing the Copies of Plays never before Prin<g ref="char:EOLhyphen"/>ted, but kept up in Manuſcript. For inſtance, in the Year 1652, <hi>Beaumont</hi> and <hi>Fletcher's Wild Gooſe Chace</hi> was Printed in Folio, <hi>for the Pub<g ref="char:EOLhyphen"/>lick uſe of all the Ingenious,</hi> (as the Title-page
+<pb n="10" facs="tcp:43156:9"/> ſays) <hi>and private Benefit of</hi> John Lowin <hi>and</hi> Joſeph Tayler, <hi>Servants to his late Ma<g ref="char:EOLhyphen"/>jesty;</hi> and by them Dedicated <hi>To the Honour'd few Lovers of Dramatick Poeſy:</hi> Wherein they modeſtly intimate their Wants. And that with ſufficient Cauſe; for whatever they were be<g ref="char:EOLhyphen"/>fore the Wars, they were, after, reduced to a neceſſitous Condition. <hi>Lowin</hi> in his latter Days, kept an Inn (the three Pidgions) at <hi>Brent<g ref="char:EOLhyphen"/>ford,</hi> where he Dyed very Old, (for he was an Actor of eminent Note in the Reign of K. <hi>James</hi> the firſt) and his Poverty was as great as his Age. <hi>Tayler</hi> Dyed at <hi>Richmond</hi> and was there Buried. <hi>Pollard</hi> who Lived Single, and had a Competent Eſtate; Retired to ſome Relations he had in the Country, and there ended his Life. <hi>Perkins</hi> and <hi>Sumner</hi> of the <hi>Cockpit,</hi> kept Houſe together at <hi>Clerkenwel,</hi> and were there Buried. Theſe all Dyed ſome Years before the Reſtauration. What follow'd after, I need not tell you: You can eaſily Remem<g ref="char:EOLhyphen"/>ber.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>Yes, preſently after the Reſtaurati<g ref="char:EOLhyphen"/>on, the King's Players Acted publickly at the <hi>Red Bull</hi> for ſome time, and then Removed to a New-built Playhouſe in <hi>Vere-ſtreet</hi> by <hi>Claremarket.</hi> There they continued for a Year or two, and then removed to the <hi>Theater Roy<g ref="char:EOLhyphen"/>al</hi> in <hi>Drury-lane,</hi> where they firſt made uſe of Scenes, which had been a little before in<g ref="char:EOLhyphen"/>troduced upon the publick Stage by Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Davenant</hi> at the <hi>Duke's Old Theater</hi> in
+<pb n="11" facs="tcp:43156:9"/> 
+                  <hi>Lincolns-Inn-fields,</hi> but afterwards very much improved, with the Addition of curious Ma<g ref="char:EOLhyphen"/>chines by Mr. <hi>Betterton</hi> at the New <hi>Theater</hi> in <hi>Dorſet-Garden,</hi> to the great Expence and continual Charge of the Players. This much impair'd their Profit o'er what it was before; for I have been inform'd, (by one of 'em) That for ſeveral Years next after the Reſtaur<g ref="char:EOLhyphen"/>ation, every whole Sharer in Mr. <hi>Hart</hi>'s Com<g ref="char:EOLhyphen"/>pany, got 1000 <hi>l. per an.</hi> About the ſame time that Scenes firſt enter'd upon the Stage at <hi>London,</hi> Women were taught to Act thei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own Parts; ſince when, we have ſeen at both Houſes ſeveral excellent Actreſſes, juſtly famed as well for Beauty, as perfect good Action. And ſome Plays (in particular <hi>The Parſon's Wedding)</hi> have been Preſented all by Women, as formerly all by Men. Thus it continued for about 20 Years, when Mr. <hi>Hart</hi> and ſome of the Old Men began to grow weary, and were minded to leave off; then the two Companies thought fit to Unite; hut of late, you ſee, they have thought it no leſs fit to Di<g ref="char:EOLhyphen"/>vide again, though both Companies keep the ſame Name of his Majeſty's Servants. All this while the Play-houſe Muſick improved Yearly, and is now arrived to greater Per<g ref="char:EOLhyphen"/>fection than ever I knew it. Yet for all theſe Advantages, the Reputation of the Stage, and Peoples Affection to it, are much Decay'd. Some were lately ſevere againſt it, and would
+<pb n="12" facs="tcp:43156:10"/> hardly allow Stage-Plays fit to be longer permitted. Have you ſeen Mr. <hi>Collier</hi>'s Book?</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Yes, and his Oppoſer's.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>And what think you?</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>In my mind Mr. <hi>Collier</hi>'s Reflections are Pertinent, and True, in the Main; the Book ingeniouſly Writ, and well Intended: But he has overſhot himſelf in ſome Places; and his Reſpondents, perhaps, in more. My af<g ref="char:EOLhyphen"/>fection inclines me not to Engage on either ſide, but rather Mediate. If there be Abuſes relat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng to the Stage; (which I think is too apparent) Let the Abuſe be reformed, and not the uſe, for that Reaſon only, Aboliſh'd. 'Twas an Old ſaying when I was a Boy,
+<q>Abſit Abuſus non deſit totaliter Vſus.</q>
+               </p>
+               <p>I ſhall not run through Mr. <hi>Collier's</hi> Book; I will only touch a little on two or three general Notions, in which, I think he may be miſta<g ref="char:EOLhyphen"/>ken. What he urges out of the Primitive Councils, and Fathers of the Church, ſeems to me to be directed againſt the Heathen Plays, which were a ſort of Religious Worſhip with them, to the Honour of <hi>Ceres, Flora,</hi> or ſome of their falſe Deities; they had always a little Altar on their Stages, as appears plain enough from ſome places in <hi>Plautus.</hi> And Mr. <hi>Collier</hi> himſelf p. 235. tells us out of <hi>Livy,</hi> that Plays were brought in upon the Score
+<pb n="13" facs="tcp:43156:10"/> of Religion, to pacify the Gods. No wonder then, they forbid Chriſtans to be preſent at them, for it was almoſt the ſame as to be preſent at their Sacrifices. We muſt alſo ob<g ref="char:EOLhyphen"/>ſerve that this was in the Infancy of Chriſti<g ref="char:EOLhyphen"/>anity, when the Church was under ſevere, and almoſt continual Perſecutions, and when all its true Members were of moſt ſtrict and exemplary Lives, not knowing when they ſhould be call'd to the Stake, or thrown to Wild-Beaſts. They communicated Daily, and expected Death hourly; their thoughts were intent upon the next World, they abſtain'd al<g ref="char:EOLhyphen"/>moſt wholy from all Diverſions and pleaſures (though lawfull and Innocent) in this. Af<g ref="char:EOLhyphen"/>terwards when Perſecution ceaſed, and the Church flouriſht, Chriſtians being then freed from their former Terrors, allow'd themſelves, at proper times, the lawfull Recreations of Converſation, and among other (no doubt) this of Shewes and Repreſentations. After this time, the Cenſures of the Church indeed, might be continued, or revived, upon occaſion, againſt Plays and Players, tho' (in my Opi<g ref="char:EOLhyphen"/>nion) it can not be underſtood generally, but only againſt ſuch Players who were of Vicious and Licencious Lives, and repreſented profane Subjects, inconſiſtant with the Morals and probity of Manners requiſite to Chriſti<g ref="char:EOLhyphen"/>ans; and frequented chiefly by ſuch looſe and Debaucht People as were much more apt to Corrupt than Divert thoſe who aſſociated with
+<pb n="14" facs="tcp:43156:11"/> them. I ſay, I can not think the Canons and Cenſures of the Fathers can be applyed to all Players, <hi>quatenus</hi> Players; for if ſo how could Plays be continued among the Chriſtians, as they were, of Divine Subject, and Scriptu<g ref="char:EOLhyphen"/>ral Stories? A late French Author Speaking of the Original of the <hi>Hotel De Bourgogne</hi> (a Play-houſe in <hi>Paris)</hi> ſays that the ancient Dukes of that Name gave it to the Brother<g ref="char:EOLhyphen"/>hood of the Paſſion, eſtabliſhed in the Church of Trinity-Hoſpital in the <hi>Rue</hi> S. <hi>Denis,</hi> on condition that they ſhould repreſent here In<g ref="char:EOLhyphen"/>terludes of Devotion: And adds that there have been publick Shews in this Place 600 Years ago. The Spaniſh and Portuguize con<g ref="char:EOLhyphen"/>tinue ſtill to have, for the moſt part, ſuch Eccleſiaſtical Stories, for the Subject of their Plays: And if we may beleive <hi>Gage,</hi> they are Acted in their Churches in <hi>Mexico,</hi> and the Spaniſh <hi>Weſt-Indies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>That's a great way off, <hi>Truman;</hi> I had rather you would come nearer Home, and confine your diſcourſe to Old <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>So I intend. The ſame has been done here in <hi>England;</hi> for otherwiſe how comes it to be prohibited in the <hi>88th</hi> Canon, among thoſe paſt in Convocation, 1603. Certain it is that our ancient Plays were of Religious Sub<g ref="char:EOLhyphen"/>jects, and had for their Actors, (if not Prieſts) yet Men relating to the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>How does that appear?</p>
+            </sp>
+            <pb n="15" facs="tcp:43156:11"/>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Nothing clearer. <hi>Stow</hi> in his Survey of <hi>London,</hi> had one Chapter <hi>of the Sports and Paſtimes of old time uſed in this City,</hi> and there he tells us, That in the Year 1391 (which was 15 <hi>R.</hi> 2.) a Stage-Play was play'd by the Pariſh-Clerks of <hi>London,</hi> at the <hi>Skinner's-well</hi> beſide <hi>Smithfield,</hi> which Play continued three Days together, the King, Queen, and Nobles of the Realm being preſent. And another was play'd in the Year 1409 (11 <hi>H.</hi> 4.) which laſted eight Days, and was of Matter from the Creation of the World; whereat was preſent moſt part of the Nobility and Gentry of <hi>England.</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Dugdale</hi> in his Antiquities of <hi>Warwickſhire,</hi> p. 116, ſpeaking of the <hi>Gray-Friers</hi> (or <hi>Fran<g ref="char:EOLhyphen"/>ciſcans)</hi> at <hi>Coventry,</hi> ſays, Before the ſuppreſ<g ref="char:EOLhyphen"/>ſion of the Monaſteries, this City was very famous for the Pageants that were play'd there<g ref="char:EOLhyphen"/>in upon <hi>Corpus-Chriſti</hi> Day; which Pageants being acted with mighty State and Reverence by the Friers of this Houſe, had Theatres for the ſeveral Scenes very large and high, plac'd upon Wheels, and drawn to all the eminent Parts of the City, for the better advantage of the Spectators; and contain'd the Story of the New Teſtament, compoſed in old Engliſh Rhime. An ancient Manuſcript of the ſame is now to be ſeen in the <hi>Cottonian</hi> Library, <hi>Sub Effig. Veſpat. D.</hi> 8. Since the Reformation, in Queen <hi>Elizabeth</hi>'s time, Plays were frequently acted by Quiriſters and Singing Boys; and ſe<g ref="char:EOLhyphen"/>veral of our old Comedies have printed in the
+<pb n="16" facs="tcp:43156:12"/> Title Page, <hi>Acted by the Children of</hi> Paul'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, (not the School, but the Church) others, <hi>By the Chil<g ref="char:EOLhyphen"/>dren of her Majeſty's Chappel;</hi> in particular, <hi>Cin<g ref="char:EOLhyphen"/>thias Revels,</hi> and the <hi>Poetaſter</hi> were play'd by them; who were at that time famous for good Action. Among <hi>Ben. Johnſon</hi>'s Epigrams you may find <hi>An Epitaph on S. P.</hi> (Sal. Pavy) <hi>one of the Children of Queen</hi> Elizabeth'<hi>s Chappel;</hi> part of which runs thus,
+<q>
+                     <lg>
+                        <l>Years he counted ſcarce Thirteen</l>
+                        <l>When Fates turn'd Cruel,</l>
+                        <l>Yet three fill'd Zodiacks he had been</l>
+                        <l>The Stages-Jewell.</l>
+                        <l>And did act (what now we moan)</l>
+                        <l>Old Man ſo duly,</l>
+                        <l>As, ſooth, the <hi>Parcae</hi> thought him one,</l>
+                        <l>He play'd ſo truly.</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Some of theſe Chappel Boys, when they grew Men, became Actors at the <hi>Black-friers;</hi> ſuch were <hi>Nathan Feild,</hi> and <hi>John <g ref="char:V">Ʋ</g>nderwood.</hi> Now I can hardly imagine that ſuch Plays and Players as theſe, are included in the ſevere Cenſure of the Councils and Fathers; but ſuch only who are truly within the Character given by <hi>Didacus de Tapia,</hi> cited by Mr. <hi>Collier,</hi> p. 276, <hi>viz. The infamous Playhouſe; a place of contradiction to the strictneſs and ſobriety of Religion; a place hated by God, and haunted by the Devil.</hi> And for ſuch I have as great an abhorrance as any Man.</p>
+            </sp>
+            <pb n="17" facs="tcp:43156:12"/>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>Can you gueſs of what Antiquity the repreſenting of Religious Matters, on the Stage, hath been in <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>How long before the Conqueſt I know not, but that it was uſed in <hi>London</hi> not long af<g ref="char:EOLhyphen"/>ter, appears by <hi>Fitz-Stevens,</hi> an Author who wrote in the Reign of King <hi>Henry</hi> the Second. His Words are, <hi>Londonia pro ſpectaculis the<g ref="char:EOLhyphen"/>atralibus, pro ludis ſcenicis, ludos habet ſanctiores, Repreſentationes miraculorum, quae ſancti Confeſſo<g ref="char:EOLhyphen"/>res operati ſunt, ſeu Repreſentationes paſſionum quibus claruit constantia Martyrum.</hi> Of this, the Manuſcript which I lately mention'd, in the <hi>Cottonian</hi> Library, is a notable inſtance. Sir <hi>William Dugdale</hi> cites this Manuſcript, by the Title of <hi>Ludus Coventriae;</hi> but in the printed Catalogue of that Library, p. 113, it is named thus, <hi>A Collection of Plays in old Engliſh Metre.</hi> h. e. <hi>Dramata ſacra in quibus exhibentur hiſtoriae veteris &amp; N. Testamenti, introductis quaſi in Scenam perſonis illic memoratis, quas ſecum invi<g ref="char:EOLhyphen"/>cem colloquentes pro ingenio fingit Poeta. Videntur olim coram populo, ſive ad instruendum ſive ad pla<g ref="char:EOLhyphen"/>cendum, a fratibus mendicantibus repraeſentata.</hi> It appears by the latter end of the Prologue, that theſe Plays or Interludes, were not only play'd at <hi>Coventry,</hi> but in other Towns and Places upon occaſion. And poſſibly this may be the ſame Play which <hi>Stow</hi> tells us was play'd in the Reign of King <hi>Henry</hi> IV, which laſted for Eight Days. The Book ſeems by the Cha<g ref="char:EOLhyphen"/>racter and Language to be at leaſt 300 Years
+<pb n="18" facs="tcp:43156:13"/> old. It begins with a general Prologue, giving the Arguments of 40 Pageants or Geſticulations (which were as ſo many ſeveral Acts or Scenes) repreſenting all the Hiſtories of both Teſtaments from the Creation, to the chooſing of St. <hi>Mathias</hi> to be an Apoſtle. The Stories of the New Te<g ref="char:EOLhyphen"/>ſtament are more largely expreſt, <hi>viz.</hi> The An<g ref="char:EOLhyphen"/>nunciation, Nativity, Viſitation; but more eſ<g ref="char:EOLhyphen"/>pecially all Matters relating to the Paſſion very particularly, the Reſurrection, Aſcention, the choice of St. <hi>Mathias:</hi> After which is alſo re<g ref="char:EOLhyphen"/>preſented the Aſſumption, and laſt Judgment. All theſe things were treated of in a very home<g ref="char:EOLhyphen"/>ly Style, (as we now think) infinitely below the Dignity of the Subject: But it ſeems the Guſt of that Age was not ſo nice and delicate in theſe Matters; the plain and incurious Judg<g ref="char:EOLhyphen"/>ment of our Anceſtors, being prepared with fa<g ref="char:EOLhyphen"/>vour, and taking every thing by the right and eaſieſt Handle: For example, in the Scene rela<g ref="char:EOLhyphen"/>ting to the Viſitation.</p>
+               <q>
+                  <sp>
+                     <speaker>Maria</speaker>
+                     <lg>
+                        <l>But Husband of oo thyng pray you moſt mekely,</l>
+                        <l>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aue knowing that our Coſyn Elizabeth with childe is,</l>
+                        <l>
+                           <gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t it pleaſe yow to go to her haſtyly,</l>
+                        <l>
+                           <gap reason="illegible" resp="#MURP" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ght we myth comfort her it wer to me blys.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Joſeph.</speaker>
+                     <lg>
+                        <l>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> ſake, is ſhe with childe, ſche?</l>
+                        <l>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> her husband Zachary be mery.</l>
+                        <pb n="19" facs="tcp:43156:13"/>
+                        <l>In Montana they dwelle, fer hence, ſo moty the,</l>
+                        <l>In the City of Iuda, I know it verily;</l>
+                        <l>It is hence I trowe myles two a fifty,</l>
+                        <l>We ar like to be wery or we come at the ſame.</l>
+                        <l>I wole with a good will, bleſſyd wyff Mary;</l>
+                        <l>Now go we we forth then in goddys name, &amp;c.</l>
+                     </lg>
+                  </sp>
+               </q>
+               <p>A little before the Reſurrection.</p>
+               <q>
+                  <p>
+                     <hi>Nunc dormient milites, &amp; veniet anima Chriſti de inferno, cum</hi> Adam <hi>&amp;</hi> Eva, Abraham, John Baptiſt, <hi>&amp; alijs.</hi>
+                  </p>
+                  <sp>
+                     <speaker>Anima Chriſti.</speaker>
+                     <lg>
+                        <l>Come forth Adam, and Eve with the,</l>
+                        <l>And all my fryndes that herein be,</l>
+                        <l>In Paradys come forth with me</l>
+                        <l>In blyſſe for to dwelle.</l>
+                        <l>The fende of hell that is yowr foo</l>
+                        <l>He ſhall be wrappyd and woundyn in woo:</l>
+                        <l>Fro wo to welth now ſhall ye go,</l>
+                        <l>With myrth euer mor to melle.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Adam.</speaker>
+                     <lg>
+                        <l>I thank the Lord of thy grete grace</l>
+                        <l>That now is forgiuen my gret treſpace,</l>
+                        <l>Now ſhall we dwellyn in blyſfull pace, &amp;c.</l>
+                     </lg>
+                  </sp>
+               </q>
+               <p>The laſt Scene or Pageant, which repreſents the Day of Judgment, begins thus.</p>
+               <q>
+                  <sp>
+                     <speaker>Michael.</speaker>
+                     <lg>
+                        <l>Surgite, <hi>All men aryſe,</hi>
+                        </l>
+                        <l>Venite ad judicium,</l>
+                        <l>For now is ſet the High Iuſtice:</l>
+                        <l>And hath aſſignyd the day of Dome;</l>
+                        <pb n="20" facs="tcp:43156:14"/>
+                        <l>Kepe you redyly to this grett aſſyſe,</l>
+                        <l>Both gret and ſmall, all and ſum,</l>
+                        <l>And of yowr anſwer you now adviſe,</l>
+                        <l>What you ſhall ſay when that yow com, &amp;c.</l>
+                     </lg>
+                  </sp>
+               </q>
+               <p>Theſe and ſuch like, were the Plays which in former Ages were preſented publickly: Whe<g ref="char:EOLhyphen"/>ther they had any ſettled and conſtant Houſes, for that purpoſe, does not appear; I ſuppoſe not. But it is notorious. that in former times there was hardly ever any Solemn Reception of Princes, or Noble Perſons, but Pageants (that is Stages Erected in the open Street) were part of the Entertainment. On which there were Speeches by one or more Perſons, in the nature of Scenes; and beſure one of the Speakers muſt be ſome Saint of the ſame Name with the Party to whom the Honour is intended. For inſtance, there is an ancient Manuſcript at <hi>Coventry,</hi> call'd the <hi>Old Leet Book,</hi> wherein is ſet down in a very particular manner, (fo. 168) the Re<g ref="char:EOLhyphen"/>ception of Queen <hi>Margaret,</hi> Wife of <hi>H.</hi> 6, who came to <hi>Coventry</hi> (and I think, with her, her young Son Prince <hi>Edward)</hi> on the Feaſt of the Exaltation of the Holy-Croſs, 35. <hi>H.</hi> 6. (1456) Many Pageants and Speeches were made for her Welcome; out of all which, I ſhall obſerve but two or three, in the Old Engliſh, as it is Recorded.</p>
+               <pb n="21" facs="tcp:43156:14"/>
+               <q>
+                  <sp>
+                     <speaker>St. <hi>Edward.</hi>
+                     </speaker>
+                     <lg>
+                        <l>Moder of mekenes, Dame Margarete, princes moſt excellent,</l>
+                        <l>I King Edward wellcome you with affection cordial,</l>
+                        <l>Certefying to your highnes mekely myn entent,</l>
+                        <l>For the wele of the King and you hertily pray I ſhall,</l>
+                        <l>And for prince Edward my goſtly chylde, who I love principal.</l>
+                        <l>Praying the, Iohn Euangeliſt, my help therein to be,</l>
+                        <l>On that condition right humbly I giue this Ring to the.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>John Evangeliſt.</speaker>
+                     <lg>
+                        <l>Holy Edward crowned King, Brother in Verginity,</l>
+                        <l>My power plainly I will prefer thy will to amplefy.</l>
+                        <l>Moſt excellent princes of wymen mortal, your Bedeman will I be.</l>
+                        <l>I know your Life ſo vertuous that God is pleaſed thereby</l>
+                        <l>The birth of you unto this Reme ſhall cauſe great Melody:</l>
+                        <l>The vertuous voice of Prince Edward ſhall dayly well encreaſe.</l>
+                        <l>St. Edward his Godfader and I ſhall prey therefore doubtleſe.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>St. <hi>Margaret.</hi>
+                     </speaker>
+                     <lg>
+                        <l>Moſt notabul Princes of wymen earthle</l>
+                        <l>Dame Margarete, the chefe myrth of this Empyre,</l>
+                        <l>Ye be hertely welcome to this Cyte.</l>
+                        <l>To the pleſure of your highneſſe I wyll ſet my deſyre;</l>
+                        <l>Both nature and gentleneſie doth me require,</l>
+                        <l>Seth we be both of one name, to ſhew you kindneſſe;</l>
+                        <l>Wherfore by my power ye ſhall haue no diſtreſſe.</l>
+                     </lg>
+                     <lg>
+                        <l>I ſhall pray to the Prince that is endleſe</l>
+                        <l>To ſocour you with ſolas of his high grace;</l>
+                        <l>He will here my petition this is doubtleſſe,</l>
+                        <l>For I wrought all my life that his will wace.</l>
+                        <l>Therefore, Lady, when you be in any dredfull caſe,</l>
+                        <l>Call on me boldly, thereof I pray you,</l>
+                        <l>And truſt in me feythfully, I will do that may pay you.</l>
+                     </lg>
+                  </sp>
+               </q>
+               <p>In the next Reign (as appears in the ſame Book, ſo. 221) an other Prince <hi>Edward,</hi> Son
+<pb n="22" facs="tcp:43156:15"/> of King <hi>Edward</hi> the 4, came to <hi>Coventry</hi> on the 28 of <hi>April, 14 E.</hi> 4, (1474) and was entertain'd with many Pageants and Speeches, among which I ſhall obſerve only two; one was of St. <hi>Edward</hi> again, who was then made to ſpeak thus,</p>
+               <q>
+                  <lg>
+                     <l>Noble Prince Edward, my Couſin and my Knight,</l>
+                     <l>And very Prince of our Line com yn diſſent,</l>
+                     <l>I Saint Edward have purſued for your faders imperial Right,</l>
+                     <l>Whereof he was excluded by full furious intent.</l>
+                     <l>Unto this your Chamber as Prince full excellent</l>
+                     <l>Ye be right welcome. Thanked be Criſt of his ſonde.</l>
+                     <l>For that that was ours is now in your faders honde.</l>
+                  </lg>
+               </q>
+               <p>The other Speech was from St. <hi>George;</hi> and thus ſaith the Book.</p>
+               <q>
+                  <p>—Alſo upon the Condite in the Croſchep<g ref="char:EOLhyphen"/>ing was St. George armed, and a kings daugh<g ref="char:EOLhyphen"/>ter kneling afore him with a Lamb, and the fader and the moder being in a Towre aboven behold<g ref="char:EOLhyphen"/>ing St. George ſaving their daughter from the Dragon, and the Condite renning wine in four places, and Minſtralcy of Organ playiug, and St. George hauing this Speech underwritten.</p>
+                  <lg>
+                     <l>O mighty God our all ſuccour celeſtiall</l>
+                     <l>Which this Royme haſt given in dower</l>
+                     <l>To the moder, and to me George protection perpetuall</l>
+                     <l>It to defend from enimys fer and nere,</l>
+                     <l>And as this mayden defended was here</l>
+                     <l>By thy grace from this Dragons devour,</l>
+                     <l>So, Lord preſerve this noble prince, and ever be his ſocour.</l>
+                  </lg>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>I perceive theſe holy Matters conſiſt<g ref="char:EOLhyphen"/>ed very much of Praying; but I pitty poor St. <hi>Edward</hi> the Confeſſor, who in the compaſs of a
+<pb n="23" facs="tcp:43156:15"/> few Years, was made to promiſe his favour and aſſiſtance to two young Princes of the ſame Name indeed, but of as different and oppoſite Intereſts as the two Poles. I know not how he could perform to both.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Alas! they were both unhappy, not<g ref="char:EOLhyphen"/>withſtanding theſe fine Shews and ſeeming careſ<g ref="char:EOLhyphen"/>ſes of Fortune, being both murder'd, one by the Hand, the other by the procurement of <hi>Rich.</hi> Duke of <hi>Gloceſter.</hi> I will produce but one Ex<g ref="char:EOLhyphen"/>ample more of this ſort of Action, or Repre<g ref="char:EOLhyphen"/>ſentations, and that is of later time, and an In<g ref="char:EOLhyphen"/>ſtance of much higher Nature than any yet mentioned, It was at the marriage of Prince <hi>Arthur,</hi> eldeſt Son of King <hi>Henry</hi> 7. to the Princeſs <hi>Catherine</hi> of <hi>Spain, An.</hi> 1501. Her paſ<g ref="char:EOLhyphen"/>ſage through <hi>London</hi> was very magnificent, as I have read it deſcribed in an old M. S. Chronicle of that time. The Pageants and Speeches were many; the Perſons repreſented St. <hi>Catherine,</hi> St. <hi>
+                     <g ref="char:V">Ʋ</g>rſula,</hi> a Senator, Nobleſſe, Virtue, an Angel, King <hi>Alphonſe, Job, Boetius,</hi> &amp;c. among others one is thus deſcribed,
+<q>
+                     <p>—When this Spech was ended, ſhe held on her way tyll ſhe cam unto the Standard in Chepe, where was ordeyned the fifth Pagend made like an hevyn, theryn ſyttying a Perſonage repreſenting the fa<g ref="char:EOLhyphen"/>der of hevyn, keyng all formyd of Gold, and brennying beffor his trone vii Candyilis of war ſtandyng in vii Candylitykis of Gold, the ſaid perſonage beyng environed with ſundry Gyrar<g ref="char:EOLhyphen"/>chies off Angelis, and ſytting in a Cope of moſt rich cloth of Tyſſu, garniſhyd wyth ſtoon and perle in moſt ſumptuous wyſe. Foragain which
+<pb n="24" facs="tcp:43156:16"/> ſaid Pagend upon the ſowth ſyde of the ſtrete ſtood at that tyme, in a hows wheryn that tyme dwellyd <hi>William Geffrey</hi> habyrdaſher, the king, the Quene, my Lady the Kingys moder, my, Lord of <hi>Oxynfford,</hi> wyth many othir Lordys and Ladys, and Perys of this Realm, wyth alſo certayn Ambaſſadors of France lately ſent from the Frenſh King: and ſo paſſyng the ſaid Eſtatys, eyther guyvyng to other due and convenyent Sa<g ref="char:EOLhyphen"/>luts and Countenancs, ſo ſone as hyr grace was approchid unto the ſayd Pagend, the fadyr be<g ref="char:EOLhyphen"/>gan his Spech as folowyth.</p>
+                     <lg>
+                        <l>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nc veneram locum, ſepteno lumine ſeptum.</l>
+                        <l>Dignumque <hi>Arthuri</hi> totidem Aſtra micant.</l>
+                     </lg>
+                     <lg>
+                        <l>I am begynyng and ende, that made ech creature</l>
+                        <l>My ſylfe, and for my ſylfe, but man eſſpecially</l>
+                        <l>Both male and female, made aftyr myne aun fygure,</l>
+                        <l>Whom I joyned togydyr in Matrimony</l>
+                        <l>And that in Paradyſe, declaring opynly</l>
+                        <l>That men ſhall weddyng in my Chyrch ſolempnize,</l>
+                        <l>Fygurid and ſignifyed by the erthly Paradyze.</l>
+                     </lg>
+                     <lg>
+                        <l>In thys my Church I am allway recydent</l>
+                        <l>As my chyeff tabernacle, and moſt choſyn place,</l>
+                        <l>Among theſe goldyn Candylſtikkis which repreſent</l>
+                        <l>My Catholyk Chyrch, ſhynyng affor my face,</l>
+                        <l>With lyght of feyth, wisdom, doctryne, and grace,</l>
+                        <l>And mervelouſly eke enflamyd toward me</l>
+                        <l>Wyth the extyng wible fyre of Charyte.</l>
+                     </lg>
+                     <lg>
+                        <l>Wherefore my welbelovid dowgthyr Katharyn,</l>
+                        <l>Syth I have made yow to myne awn ſemblance</l>
+                        <l>In my Chyrch to be maried, and your noble Childryn</l>
+                        <l>To regn in this land as in their enherytance,</l>
+                        <l>Se that ye have me in ſpeciall remembrance:</l>
+                        <l>Love me and my Chyrch yowr ſpiritual modyr.</l>
+                        <l>For ye diſpyſing that oon, dyſpyſe that othyr.</l>
+                     </lg>
+                     <lg>
+                        <pb n="25" facs="tcp:43156:16"/>
+                        <l>Look that ye walk in my precepts, and obey them well:</l>
+                        <l>And here I give yow the ſame blyſſyng that I</l>
+                        <l>Gave my well beloved chylder of Iſraell;</l>
+                        <l>Blyſſyd be the fruyt of your bely;</l>
+                        <l>Yower ſubſtance and frutys I ſhall encreaſe and multyply;</l>
+                        <l>Yower rebellious Enimyes I ſhall put in yowr hand,</l>
+                        <l>Encreaſing in honour both yow and yowr land.</l>
+                     </lg>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>This would be cenſured now a days as profane to the higeſt degree.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>No doubt on't: Yet you ſee there was a time when People were not ſo nicely cenſorious in theſe Matters, but were willing to take things in the beſt ſence; and then this was thought a noble Entertainment for the greateſt King in <hi>Europe</hi> (ſuch I eſteem King <hi>H.</hi> 7. at that time) and proper for that Day of mighty Joy and Triumph. And I muſt farther obſerve out of the Lord <hi>Bacon</hi>'s Hiſtory of <hi>H.</hi> 7. that the chief Man who had the care of that Days Proceedings was Biſhop <hi>Fox,</hi> a grave Coun<g ref="char:EOLhyphen"/>celor for War or Peace, and alſo a good Surveyor of Works, and a good Maſter of Cerimonies. and it ſeems he approv'd it. The ſaid Lord <hi>Bacon</hi> tells us farther, That whoſoever had thoſe Toys in compiling, they were not altoge<g ref="char:EOLhyphen"/>ther Pedantical.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>Theſe things however are far from that which we underſtand by the name of a Play.</p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>It may be ſo; but theſe were the Plays of thoſe times. Afterwards in the Reign of K. <hi>H.</hi> 8. both the Subject and Form of theſe Plays began to alter, and have ſince varied more and
+<pb n="26" facs="tcp:43156:17"/> more. I have by me, a thing called <hi>A merry Play betwene the Pardoner and the Frere, the Curate and Neybour Pratte.</hi> Printed the 5 of <hi>April</hi> 1533. which was 24 <hi>H.</hi> 8. (a few Years before the Diſſolution of Monaſteries) The deſign of this Play was to redicule Friers and Pardoners. Of which I'll give you a taſte. To begin it, the Fryer enters with theſe Words,
+<q>
+                     <lg>
+                        <l>Deus hic; <hi>the holy Trynyte</hi>
+                        </l>
+                        <l>Preſerue all that now here be.</l>
+                        <l>Dere bretherne, yf ye wyll conſyder.</l>
+                        <l>The Cauſe why I am com hyder,</l>
+                        <l>Ye wolde be glad to knowe my entent;</l>
+                        <l>For I com not hyther for mony nor for rent,</l>
+                        <l>I com not hyther for meat nor for meale,</l>
+                        <l>But I com hyther for your Soules heale, &amp;c.</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>After a long Preamble, he adreſſes himſelf to Preach, when the Pardoner enters with theſe Words,</p>
+               <q>
+                  <lg>
+                     <l>God and St. Leonarde ſend ye all his grace</l>
+                     <l>As many as ben aſſembled in this place, &amp;c.</l>
+                  </lg>
+               </q>
+               <p>And makes a long Speech, ſhewing his Bulls and his Reliques, in order to ſell his Pardons for the raiſing ſome Money towards the rebuild<g ref="char:EOLhyphen"/>ing,</p>
+               <q>
+                  <lg>
+                     <l>Of the holy Chappell of ſweet ſaynt Leonarde</l>
+                     <l>Which late by fyre was deſtroyed and marde.</l>
+                  </lg>
+               </q>
+               <p>Both theſe ſpeaking together, with continual interruption, at laſt they fall together by the Ears. Here the Curate enters (for you muſt know the Scene lies in the Church)</p>
+               <q>
+                  <pb n="27" facs="tcp:43156:17"/>
+                  <sp>
+                     <lg>
+                        <l>Hold your hands; a vengeance on ye both two</l>
+                        <l>That euer ye came hyther to make this ado,</l>
+                        <l>To polute my Chyrche, &amp;c.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Fri.</speaker>
+                     <lg>
+                        <l> Mayſter Parſon, I marvayll ye will giue Lycence</l>
+                        <l>To this falſe knaue in this Audience</l>
+                        <l>To publiſh his ragman rolles with lyes.</l>
+                        <l>I deſyred hym ywys more than ones or twyſe</l>
+                        <l>To hold hys peas tyll that I had done,</l>
+                        <l>But he wolde here no more than the man in the mone.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Pard.</speaker>
+                     <lg>
+                        <l> Why ſholde I ſuffre the more than thou me?</l>
+                        <l>Mayſter parſon gaue me lycence before the.</l>
+                        <l>And I wolde thou knowyeſt it I haue relykes here.</l>
+                        <l>Other maner ſtuffe than thou doſt bere:</l>
+                        <l>I wyll edefy more with the ſyght of it,</l>
+                        <l>Than will all thy pratynge of holy wryt;</l>
+                        <l>For that except that the precher himſelfe lyue well</l>
+                        <l>His predycacyon wyll helpe never a dell, &amp;c.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Parſ.</speaker>
+                     <lg>
+                        <l> No more of this wranglyng in my Chyrch:</l>
+                        <l>I ſhrewe yowr hertys bothe for this lurche.</l>
+                        <l>Is there any blood ſhed here between theſe knaues?</l>
+                        <l>Thanked be god they had no ſtauys,</l>
+                        <l>Nor egoteles, for then it had ben wronge.</l>
+                        <l>Well, ye ſhall ſynge another ſonge.</l>
+                     </lg>
+                  </sp>
+               </q>
+               <p>Here he calls his Neighbour <hi>Prat</hi> the Conſta<g ref="char:EOLhyphen"/>ble, with deſign to apprehend 'em, and ſet 'em in the Stocks. But the Frier and Pardoner prove ſturdy, and will not be ſtockt, but fall up<g ref="char:EOLhyphen"/>on the poor Parſon and Conſtable, and bang 'em both ſo well-favour'dly, that at laſt they are glad to let 'em go at liberty: And ſo the Farce ends with a drawn Battail. Such as this were the Plays of that Age, acted in Gentle<g ref="char:EOLhyphen"/>mens
+<pb n="28" facs="tcp:43156:18"/> Halls at Chriſtmaſs, or ſuch like feſtival times, by the Servants of the Family, or Strowlers who went about and made it a Trade. It is not unlikely that <note n="*" place="margin">Till the 25 Year of Queen <hi>Elizabeth,</hi> the Queen had not any Players; but in that Year 12 of the beſt of all thoſe who belong<g ref="char:EOLhyphen"/>ed to ſeveral Lords, where choſen &amp; ſworn her Servants, as Grooms of the Cham<g ref="char:EOLhyphen"/>ber. Stow's <hi>Annals,</hi> p. 698.</note> Lords in thoſe days, and Perſons of eminent Qua<g ref="char:EOLhyphen"/>lity, had their ſeveral Gangs of Players, as ſome have now of Fidlers, to whom they give Cloaks and Badges. The firſt Comedy that I have ſeen that looks like regular, is <hi>Gammer Gurton's Needle,</hi> writ I think in the reign of King <hi>Edward</hi> 6. This is compoſed of five Acts, the Scenes un<g ref="char:EOLhyphen"/>broken, and the unities of Time and Place duly obſerved. It was acted at <hi>Chriſt</hi> Colledge in <hi>Cambridge;</hi> there not being as yet any ſettled and publick Theaters.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>I obſerve, <hi>Truman,</hi> from what you have ſaid, that Plays in <hi>England</hi> had a beginning much like thoſe of <hi>Greece,</hi> the Monologues and the Pageants drawn from place to place on Wheels; anſwer exactly to the Cart of <hi>Theſpis,</hi> and the Improvements have been by ſuch little ſteps and degrees as among the Ancients, till at laſt, to uſe the Words of Sir <hi>George Back</hi> (in his <hi>Third <g ref="char:V">Ʋ</g>niverſity of</hi> England) <hi>Dramatick Poeſy is ſo lively expreſt and repreſented upon the publick Stages and Theatres of this City, as</hi> Rome <hi>in the</hi> Auge <hi>(the higheſt pitch) of her Pomp and Glory, never ſaw it better perform'd, I mean</hi> (ſays he) <hi>in
+<pb n="29" facs="tcp:43156:18"/> reſpect of the Action and Art, and not of the Coſt and Sumptiouſneſs.</hi> This he writ about the Year 1631. But can you inform me <hi>Truman,</hi> when publick Theaters were firſt erected for this purpoſe in <hi>London?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>Not certainly; but I preſume about the beginning of Queen <hi>Elizabeths</hi> Reign. For <hi>Stow</hi> in his Survey of <hi>London</hi> (which Book was firſt printed in the Year 1598) ſays, <hi>Of late Years in place of theſe Stage-plays</hi> (i. e. thoſe of Religi<g ref="char:EOLhyphen"/>ous Matters) <hi>have been uſed Comedies, Trage<g ref="char:EOLhyphen"/>dies, Interludes, and Hiſtories, both true and feign<g ref="char:EOLhyphen"/>ed; for the acting whereof certain publick Places, as the Theatre, the Curtine,</hi> &amp;c. <hi>have been erect<g ref="char:EOLhyphen"/>ed.</hi> And the continuator of <hi>Stows</hi> Annals, p. 1004, ſays, That in Sixty Years before the publication of that Book (which was <hi>An. Dom.</hi> 1629) no leſs than 17 publick Stages, or common Playhouſes, had been built in and about <hi>London.</hi> In which number he reckons five Inns or Common Oſte<g ref="char:EOLhyphen"/>ries, to have been in his time turned into Play<g ref="char:EOLhyphen"/>houſes, one Cock-pit, St. <hi>Paul</hi>'s ſinging School, one in the <hi>Blackfriers,</hi> one in the <hi>Whitefriers,</hi> and one in former time at <hi>Newington</hi> Buts; and adds, before the ſpace of 60 Years paſt, I never knew, heard, or read, of any ſuch Theaters, ſet Stages, or Playhouſes, as have been purpoſe<g ref="char:EOLhyphen"/>ly built within Man's Memory.</p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>After all, I have been told, that Stage-Plays are inconſiſtant with the Laws of this Kingdom, and Players made Rogues by Sta<g ref="char:EOLhyphen"/>tute.</p>
+            </sp>
+            <pb n="30" facs="tcp:43156:19"/>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>He that told you ſo ſtrain'd a point of Truth. I never met with any Law wholly to ſuppreſs them: Sometimes indeed they have been prohibited for a Seaſon; as in times of <hi>Lent,</hi> general Mourning or publick Calamities, or upon other occaſions, when the Govern<g ref="char:EOLhyphen"/>ment ſaw fit. Thus by Proclamation, 7 of <hi>April,</hi> in the firſt Year of Queen <hi>Elizabeth,</hi> Plays and Interludes were forbid till <hi>Alhallow-tide</hi> next following. <hi>Hollinſhed,</hi> p. 1184. Some Statutes have been made for their Regulation or Refor<g ref="char:EOLhyphen"/>mation, not general ſuppreſſion. By the Stat. 39 <hi>Eliz.</hi> c. 4. (which was made <hi>for the ſuppreſ<g ref="char:EOLhyphen"/>ſing of Rogues, Vagabonds and ſturdy Beggars)</hi> it is enacted, S. 2, <q>That all perſons that be, or ut<g ref="char:EOLhyphen"/>ter themſelves to be, Proctors, Procurers, Pa<g ref="char:EOLhyphen"/>tent gatherers, or Collectors for Goals, Priſons or Hoſpitals, or Fencers, Barewards, common players of Interludes and Miniſtrels, wand<g ref="char:EOLhyphen"/>ring abroad, (other than Players of Interludes belonging to any Baron of this Realm, or any o<g ref="char:EOLhyphen"/>ther honourable Perſonage of greater Degree, to be authorized to play under the Hand and Seal of Arms of ſuch Baron or Perſonage) All Iug<g ref="char:EOLhyphen"/>lers, Tinkers, Pedlers and Petty chapmen, wandering abroad, all wandring Perſons, &amp;c. able in Body, uſing loytering, and refuſing to work for ſuch reaſonable Wages as is commonly given, &amp;c. Theſe ſhall he ajudged and deemed Rogues, Vagabonds and ſturdy Beggars, and puniſhed as ſuch.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lovew.</speaker>
+               <p>But this priviledge of Authoriſing or Licenſing, is taken away by the Stat. 1 <hi>Ja.</hi> 1. ch. 7. S. 1. and therefore all of them (as Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi>
+                  <pb n="31" facs="tcp:43156:19"/>
+                  <add>ſays) are without diſtinction brought under</add> the foreſaid <add>Penalty.</add>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>If he me<add>ans all Players without diſtin<g ref="char:EOLhyphen"/>
+                  </add>tion, 'tis a great Miſta<add>ke. For the 39<hi rend="sup">th</hi> of the</add> Queens Statute extends only to <add>Wandering Player<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</add> and not to ſuch as are the King or Queen's Servants, and eſtabliſht in ſettled Houſes by Royal Authority. On ſuch, the ill Character of vagrant Players (or as they are now called, Strolers) can caſt no more aſperſion, than the wandring Proctors, in the ſame Statute mention<g ref="char:EOLhyphen"/>ed, on thoſe of <hi>Doctors-Commons.</hi> By a Stat. made 3. <hi>Ja.</hi> 1. ch. 21. It was enacted, <q>That if any perſon ſhall in any Stage-play, Enter<g ref="char:EOLhyphen"/>lude, Shew, Maygame or Pageant, jeſtingly or prophanely ſpeak or uſe the holy name of God, Chriſt Ieſus, the holy Ghoſt, or of the Trinity, he ſhall forfeit for every ſuch offence, 10 l.</q> The Stat. 1. <hi>Char.</hi> 1. ch. 1. enacts, <q>That no Meet<g ref="char:EOLhyphen"/>ings, Aſſemblies, or concourſe of People ſhall be out of their own Pariſhes, on the Lords day, for any Sports or Paſtimes whatſoever, nor any Bear-bating, Bull-bating, Enterludes, Com<g ref="char:EOLhyphen"/>mon Plays, or other unlawful Exerciſes and Paſtimes uſed by any perſon or perſons within their own Pariſhes.</q> Theſe are all the Statutes that I can think of relating to the Stage and Players; but nothing to ſuppreſs them totally, till the two Ordinances of the Long Parlia<g ref="char:EOLhyphen"/>ment, one of the 22 of <hi>October</hi> 1647, the other of the 11 of <hi>Feb.</hi> 1647. By which all Stage-Plays and Interludes are abſolutely forbid; the Stages, Seats, Galleries, <hi>&amp;c.</hi> to be pulled down; all Players tho' calling themſelves the King or
+<pb n="32" facs="tcp:43156:20"/>
+                  <add>Queens ſervants, and as ſuch Ac<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </add>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing within <add>this Realm, all of them on</add> Conviction, to be <add>puniſhed and fin'd accor</add>ding to Law; the <add>money forfeited by</add> them to go to the Poor of the Pariſh; and every Spectator to Pay 5 <hi>s.</hi> to the uſe of the Poor. Alſo Cock-fighting was prohibited by one of <hi>Oliver</hi>'s Acts of 31 <hi>Mar.</hi> 1654. But I ſuppoſe no body pretends theſe things to be <hi>Laws;</hi> I could ſay more on this Subject, but I muſt break off here, and leave you, <hi>Lovewit;</hi> my Occaſions require it.</p>
+               <p>
+                  <hi>Love.</hi> Farewel, Old <hi>Cavalier.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Trum.</speaker>
+               <p>'Tis properly ſaid; we are almoſt all of us, now, gone and forgoten.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
